@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: DiLu Framework
 description: A Rapid Development Framework For Enterprise
+
+github:
+  repository_url: https://github.com/dilu-dev/framework
